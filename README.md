@@ -15,7 +15,7 @@
  </p>
  
  <p>
-   <h2><u><b> ♥️ How to play? / (How it works) - Snake game </b></u></h3> 
+   <h2><u><b> ♥️ How to play? / (How it works) </b></u></h3> 
    &bull; As soon as you start, the console will ask your name (def Intro) (and store it in the var name) <br>
    &bull; The story will then play with a litle of roleplaying, about a lost boat with your crew <br>
    &bull; Depending on your choices diferent paths will happen (def path1..2..) <br>
@@ -45,11 +45,7 @@
    &bull; art_start - stores the start art <br>
    &bull; art_end - stores the end art <br>
 
-
-
-
-
-  </p>
+ </p>
   
  ----------------------------
 
