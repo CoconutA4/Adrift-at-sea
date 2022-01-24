@@ -56,7 +56,7 @@
  
  Install using git bash<code> $git clone https://github.com/monkeythatprograms/Adrift-at-sea </code><br>
  os click download button 👇 <br>
- <a href="https://github.com/monkeythatprograms/pythontic/raw/main/Finished3Game-consule.exe" target="blank"><img align="center" src="https://github.com/Akshay-Vs/resources/blob/main/src/download_bt.png" alt="blank" height="78" width="200" /></a>
+ <a href="https://github.com/CoconutA4/Adrift-at-sea/releases/download/v1.0/Adrift-at-sea.exe" target="blank"><img align="center" src="https://github.com/Akshay-Vs/resources/blob/main/src/download_bt.png" alt="blank" height="78" width="200" /></a>
  
 <h2 align="left"><b>Connect with me</b></h4>
 <p align="left">
